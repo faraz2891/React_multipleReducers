@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="col">
+          <h1>Welcome To multiple Reducers</h1>
           <div>
             <span>A :</span>
             <span>{this.props.a}</span>
